@@ -24,7 +24,7 @@ EXPERIENCE
 
 **Technologies**: Spring Boot/Web/Security/Data JPA, Junit, Mockito, Kubernetes, Istio
 
-[T-Systems](https://www.t-systems.com/de/en/industries/automotive): 10/2018 – 12/2022, 3+ years
+[T-Systems](https://www.t-systems.com/de/en/industries/automotive): 10/2018 – 12/2022, 4+ years
 
 ·     Developed a REST API with 21 endpoints to supply data to the frontend of a car showroom selling new vehicles, handling around 11,000 sales annually
 
