@@ -1,6 +1,6 @@
 ABOUT
 
-I have been working as a Java developer for over five years at companies like T-Digital and T-Systems. During this time, I’ve been involved in various projects in the automotive and telecom industries, gaining hands-on experience with the Agile methodology and the full software development lifecycle. My responsibilities have included managing releases, clarifying business requirements, and defining development tasks.
+I have been working as a Java developer for over six years at companies like T-Digital and T-Systems. During this time, I’ve been involved in various projects in the automotive and telecom industries, gaining hands-on experience with the Agile methodology and the full software development lifecycle. My responsibilities have included managing releases, clarifying business requirements, and defining development tasks.
 
 I have experience migrating monolithic applications to microservices, optimizing performance for high-load environments, and implementing authentication as a service. Additionally, I’ve worked with DevOps solutions, setting up CI/CD pipelines, and designing real-time event-driven architectures. Throughout my career, I’ve had the opportunity to work both independently as the sole developer on a project and as part of large development teams, adapting to different team dynamics and workflows.
 
