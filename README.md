@@ -10,7 +10,7 @@ Java, Multithreading and Concurrency, Spring Boot, Spring MVC, Spring Data JPA, 
 
 EXPERIENCE
 
-[T-Digital](https://www.t-digital-greece.com/): 02/2023 – PRESENT, 2+ years
+[T-Digital](https://www.t-digital-greece.com/): 01/2023 – PRESENT
 
 ·     Boosted the crash-free user rate from 88.2% to 93.1%
 
@@ -24,7 +24,7 @@ EXPERIENCE
 
 **Technologies**: Spring Boot/Web/Security/Data JPA, Junit, Mockito, Kubernetes, Istio
 
-[T-Systems](https://www.t-systems.com/de/en/industries/automotive): 10/2018 – 12/2022, 4+ years
+[T-Systems](https://www.t-systems.com/de/en/industries/automotive): 10/2019 – 12/2022, 3+ years
 
 ·     Developed a REST API with 21 endpoints to supply data to the frontend of a car showroom selling new vehicles, handling around 11,000 sales annually
 
